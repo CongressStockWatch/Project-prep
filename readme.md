@@ -19,8 +19,14 @@ Professional competencies that Brady wants to develop greater strength in
 
 Key strengths:
 
+* Flexible
+* Dependable and Reliable
 
 Professional competencies that Beau wants to develop greater strength in:
+
+* Communication Competency
+* Technical Competency
+* Handling Ambiguity
 
 ### Abdinasir
 
