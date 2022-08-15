@@ -11,9 +11,14 @@
 
 Key strengths:
 
+- Relentless problem-solver, wants to reach a solution
+- Detailed and organized, builds practical and efficient file structures
 
-Professional competencies that Brady wants to develop greater strength in
+Professional competencies that Brady wants to develop greater strength in:
 
+- Growth Mindset: handling ambiguity
+- Leadership: succession
+- Craft: process
 
 ### Beau 
 
