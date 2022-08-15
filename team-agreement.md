@@ -20,24 +20,36 @@ Professional competencies that Brady wants to develop greater strength in:
 - Leadership: succession
 - Craft: process
 
-### Beau 
+### Beau
 
 Key strengths:
 
+- Flexible
+- Dependable and Reliable
 
 Professional competencies that Beau wants to develop greater strength in:
+
+- Communication Competency
+- Technical Competency
+- Handling Ambiguity
 
 ### Abdinasir
 
 Key strengths:
 
+- Accountability
+- Project execution
+- Collaboration
 
 Professional competencies that Abdinasir wants to develop greater strength in:
+
+- Technical
+- Process
+- Adaptability
 
 ### Cody
 
 Key strengths:
-
 
 Professional competencies that Cody wants to develop greater strength:
 
@@ -53,13 +65,11 @@ Like with a general conflict, if a person feel's that one member is taking the g
 
 ### Issues dealing with differing skill levels and understanding
 
-The sanctity of learning will be preserved, and if a group member is struggling with a concept, it will be used as an opportunity to learn from another group member who is more comfortable with a concept. 
+The sanctity of learning will be preserved, and if a group member is struggling with a concept, it will be used as an opportunity to learn from another group member who is more comfortable with a concept.
 
 No group member will be looked down upon for not knowing about a certain concept. If that's the case the group will take the opportunity to help that group member to get a better grasp on the concept, through pair programming or mob coding.
 
-
-
-### If a member(s) is/are not contributing to the group what will be your plan of action. 
+### If a member(s) is/are not contributing to the group what will be your plan of action
 
 During morning stand-up, if a member is feeling that another is not contributing, they can voice that concern; the first question to be asked after that is if the person who is not contributing has something going on, whether it is an issue with the group or a personal issue, and the other group members can help in any way or what can be changed to help the person be more involved with the group.
 
@@ -68,7 +78,6 @@ During morning stand-up, if a member is feeling that another is not contributing
 ### Communication hours
 
 The members have agreed that messages can essentially be sent at any time, as everybody has personal settings on their personal devices so as to not receive notifications during desired time windows. The bigger issue is when messages are expected to be responded to. Team members are expected to respond within 30 minutes to an hour within the normal business hours (start at morning stand-up, end at 6pm Pacific). Outside of that time window, communication is not expected until the next morning or specified meet time.
-
 
 ### Breaks
 
@@ -97,4 +106,4 @@ After cloning to local machine - from main: git checkout -b dev.
 Do not return to main until time for adding final product.
 Each day's work will be a branch off of the dev branch.
 From dev: `git checkout -b <that day's feature>`.
-Merges to dev will, in general, be performed around lunch time every day and before logging off for the night. 
+Merges to dev will, in general, be performed around lunch time every day and before logging off for the night.
