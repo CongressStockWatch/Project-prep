@@ -24,10 +24,15 @@ Professional competencies that Beau wants to develop greater strength in:
 
 ### Abdinasir
 
-Key strengths:
-
+Key strengths: 
+  - Accountability 
+  - Project execution
+  - Collaboration
 
 Professional competencies that Abdinasir wants to develop greater strength in:
+  - Technical 
+  - Process
+  - Adaptability 
 
 ### Cody
 
